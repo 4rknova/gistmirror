@@ -6,4 +6,4 @@ A minimal shell script to backup github gists.
 
 Run the script to generate an empty config file in the same directory. Edit the
 generated config file to add you github access token and the output directory
-where you backup will be stored.
+where your backup will be stored.
